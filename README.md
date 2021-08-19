@@ -51,6 +51,6 @@ __ Airbnb_2021Boston
 
 ## Links
 
-1. [Source](http://insideairbnb.com/get-the-data.html) for the input files. Acessed in Jun. 2021
+1. [Source](http://insideairbnb.com/get-the-data.html) for the input files. Accessed in Jun. 2021
 2. [Medium](https://medium.com/@gui.oliveira/c8fa2e2b15e7) blog post.
 
